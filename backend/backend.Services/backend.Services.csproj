@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\backend.DataAccess\backend.DataAccess.csproj" />
+    <ProjectReference Include="..\backend.Models\backend.Models.csproj" />
+  </ItemGroup>
+
+</Project>
