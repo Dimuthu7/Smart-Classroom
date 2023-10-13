@@ -1,0 +1,14 @@
+.menu-card-div{
+    cursor: pointer;
+}
+
+.menu-card{
+    cursor: pointer;
+    box-shadow: 2px 2px 4px #a7a3a3;
+}
+
+.menu-card:hover {
+    padding-top: 1px;
+    box-shadow: 5px 5px 10px #9e9e9e;
+  }
+  
